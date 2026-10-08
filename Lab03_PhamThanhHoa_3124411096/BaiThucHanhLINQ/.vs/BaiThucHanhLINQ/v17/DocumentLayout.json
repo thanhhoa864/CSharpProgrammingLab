@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab03_PhamThanhHoa_3124411096\\BaiThucHanhLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C3A236-7F71-421D-A6B9-51AFF9DDB0DA}|..\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\BaiThucHanhLINQ..csproj|d:\\lab03_phamthanhhoa_3124411096\\baithuchanhlinq\\baithuchanhlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C3A236-7F71-421D-A6B9-51AFF9DDB0DA}|..\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\BaiThucHanhLINQ..csproj|solutionrelative:baithuchanhlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab03_PhamThanhHoa_3124411096\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "BaiThucHanhLINQ\\Program.cs",
+              "ToolTip": "D:\\Lab03_PhamThanhHoa_3124411096\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\Program.cs",
+              "RelativeToolTip": "BaiThucHanhLINQ\\Program.cs",
+              "ViewState": "AgIAAG4EAAAAAAAAAAAYwIEEAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:46:35.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

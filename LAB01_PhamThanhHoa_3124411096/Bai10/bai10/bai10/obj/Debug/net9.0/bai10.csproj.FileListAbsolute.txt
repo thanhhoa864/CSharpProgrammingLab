@@ -1,0 +1,14 @@
+D:\LAB01\Bai10\bai10\bai10\bin\Debug\net9.0\bai10.exe
+D:\LAB01\Bai10\bai10\bai10\bin\Debug\net9.0\bai10.deps.json
+D:\LAB01\Bai10\bai10\bai10\bin\Debug\net9.0\bai10.runtimeconfig.json
+D:\LAB01\Bai10\bai10\bai10\bin\Debug\net9.0\bai10.dll
+D:\LAB01\Bai10\bai10\bai10\bin\Debug\net9.0\bai10.pdb
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.AssemblyInfoInputs.cache
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.AssemblyInfo.cs
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.csproj.CoreCompileInputs.cache
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.dll
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\refint\bai10.dll
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.pdb
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\bai10.genruntimeconfig.cache
+D:\LAB01\Bai10\bai10\bai10\obj\Debug\net9.0\ref\bai10.dll

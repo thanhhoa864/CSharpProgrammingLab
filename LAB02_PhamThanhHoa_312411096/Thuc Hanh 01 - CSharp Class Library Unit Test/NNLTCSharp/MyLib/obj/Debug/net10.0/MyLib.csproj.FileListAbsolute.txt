@@ -1,0 +1,11 @@
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\bin\Debug\net10.0\MyLib.deps.json
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\bin\Debug\net10.0\MyLib.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\bin\Debug\net10.0\MyLib.pdb
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\MyLib.AssemblyInfoInputs.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\MyLib.AssemblyInfo.cs
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\MyLib.csproj.CoreCompileInputs.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\MyLib.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\refint\MyLib.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\MyLib.pdb
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 01 - CSharp Class Library Unit Test\NNLTCSharp\MyLib\obj\Debug\net10.0\ref\MyLib.dll

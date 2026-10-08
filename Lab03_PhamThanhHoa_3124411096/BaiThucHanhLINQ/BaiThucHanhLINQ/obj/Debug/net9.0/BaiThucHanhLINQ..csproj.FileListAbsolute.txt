@@ -1,0 +1,15 @@
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ..exe
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ..deps.json
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ..runtimeconfig.json
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ..dll
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ..pdb
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..AssemblyInfoInputs.cache
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..AssemblyInfo.cs
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..csproj.CoreCompileInputs.cache
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..sourcelink.json
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..dll
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\refint\BaiThucHanhLINQ..dll
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..pdb
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ..genruntimeconfig.cache
+D:\Lab03_PhamThanhHoa_3124411096\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\ref\BaiThucHanhLINQ..dll

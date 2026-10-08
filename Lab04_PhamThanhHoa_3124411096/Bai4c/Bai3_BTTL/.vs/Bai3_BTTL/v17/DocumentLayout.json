@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{136B92C8-4505-4AC8-8605-5FBD1D201723}|Bai3_BTTL\\Bai3_BTTL.csproj|d:\\csharp\\lab04_phamthanhhoa_3124411096\\bai4c\\bai3_bttl\\bai3_bttl\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136B92C8-4505-4AC8-8605-5FBD1D201723}|Bai3_BTTL\\Bai3_BTTL.csproj|solutionrelative:bai3_bttl\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136B92C8-4505-4AC8-8605-5FBD1D201723}|Bai3_BTTL\\Bai3_BTTL.csproj|D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\bai3_bttl\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{136B92C8-4505-4AC8-8605-5FBD1D201723}|Bai3_BTTL\\Bai3_BTTL.csproj|solutionrelative:bai3_bttl\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136B92C8-4505-4AC8-8605-5FBD1D201723}|Bai3_BTTL\\Bai3_BTTL.csproj|d:\\csharp\\lab04_phamthanhhoa_3124411096\\bai4c\\bai3_bttl\\bai3_bttl\\frmbai3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136B92C8-4505-4AC8-8605-5FBD1D201723}|Bai3_BTTL\\Bai3_BTTL.csproj|solutionrelative:bai3_bttl\\frmbai3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBai3.Designer.cs",
+              "DocumentMoniker": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\Bai3_BTTL\\frmBai3.Designer.cs",
+              "RelativeDocumentMoniker": "Bai3_BTTL\\frmBai3.Designer.cs",
+              "ToolTip": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\Bai3_BTTL\\frmBai3.Designer.cs",
+              "RelativeToolTip": "Bai3_BTTL\\frmBai3.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAtwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:38:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\Bai3_BTTL\\frmBai3.cs",
+              "RelativeDocumentMoniker": "Bai3_BTTL\\frmBai3.cs",
+              "ToolTip": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\Bai3_BTTL\\frmBai3.cs",
+              "RelativeToolTip": "Bai3_BTTL\\frmBai3.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwIYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:35:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\Bai3_BTTL\\frmBai3.cs",
+              "RelativeDocumentMoniker": "Bai3_BTTL\\frmBai3.cs",
+              "ToolTip": "D:\\CSharp\\Lab04_PhamThanhHoa_3124411096\\Bai4c\\Bai3_BTTL\\Bai3_BTTL\\frmBai3.cs [Design]",
+              "RelativeToolTip": "Bai3_BTTL\\frmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:22:04.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

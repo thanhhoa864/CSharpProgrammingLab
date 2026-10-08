@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB01\\Bai12\\bai12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8ED352-AEE0-4E5F-BC0A-2A5690E4C8C1}|bai12\\bai12.csproj|d:\\lab01\\bai12\\bai12\\bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8ED352-AEE0-4E5F-BC0A-2A5690E4C8C1}|bai12\\bai12.csproj|solutionrelative:bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB01\\Bai12\\bai12\\bai12\\Program.cs",
+              "RelativeDocumentMoniker": "bai12\\Program.cs",
+              "ToolTip": "D:\\LAB01\\Bai12\\bai12\\bai12\\Program.cs",
+              "RelativeToolTip": "bai12\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T13:05:50.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

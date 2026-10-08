@@ -1,0 +1,16 @@
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.frmBai1.resources
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.csproj.GenerateResource.cache
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.AssemblyInfoInputs.cache
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.AssemblyInfo.cs
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.csproj.CoreCompileInputs.cache
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\bin\Debug\net9.0-windows\Bai1_BTNC.exe
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\bin\Debug\net9.0-windows\Bai1_BTNC.deps.json
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\bin\Debug\net9.0-windows\Bai1_BTNC.runtimeconfig.json
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\bin\Debug\net9.0-windows\Bai1_BTNC.dll
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\bin\Debug\net9.0-windows\Bai1_BTNC.pdb
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.dll
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\refint\Bai1_BTNC.dll
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.pdb
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\Bai1_BTNC.genruntimeconfig.cache
+D:\CSharp\Lab04_PhamThanhHoa_3124411096\Bai4c\Bai1_BTNC\Bai1_BTNC\obj\Debug\net9.0-windows\ref\Bai1_BTNC.dll
