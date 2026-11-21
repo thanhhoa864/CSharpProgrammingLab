@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Test
+TestResults/
+*.trx
+
+# Temporary files
+*.tmp
+*.log
