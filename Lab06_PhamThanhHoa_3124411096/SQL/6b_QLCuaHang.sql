@@ -1,0 +1,17 @@
+USE QLCuaHang;
+GO
+
+SELECT * FROM dbo.SANPHAM;
+SELECT * FROM dbo.TONKHO;
+-- Xem tồn kho hôm nay.
+SELECT *
+FROM dbo.TONKHO
+WHERE NgayTon = CAST(GETDATE() AS DATE);
+SELECT * FROM dbo.HOADON;
+SELECT * FROM dbo.CHITIET_HOADON;
+
+SELECT MaSP, SLDau, SLNhap, SLBan,
+       SLDau + SLNhap - SLBan AS SoLuongConLai
+FROM dbo.TONKHO
+WHERE NgayTon = CAST(GETDATE() AS DATE);
+SELECT * FROM dbo.HOADON;
